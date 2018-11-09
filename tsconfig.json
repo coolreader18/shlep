@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "bash-parser": ["types/bash-parser/index.d.ts"]
+    },
+    "target": "es6",
+    "module": "commonjs",
+    "rootDir": "src",
+    "outDir": "build",
+    "strictNullChecks": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
+  }
+}

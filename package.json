@@ -1,0 +1,17 @@
+{
+  "name": "shlep",
+  "version": "0.1.0",
+  "description": "A sort of toolchain for shell scripts",
+  "main": "build/index.js",
+  "repository": "https://github.com/coolreader18/shlep",
+  "author": "coolreader18",
+  "license": "MIT",
+  "dependencies": {
+    "bash-ast-traverser": "^0.5.0",
+    "bash-parser": "^0.5.0",
+    "typescript": "^3.1.6"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.3"
+  }
+}
